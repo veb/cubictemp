@@ -1,24 +1,24 @@
-Todo
+# Todo
 
-Diagnostics:
-------------
+## Diagnostics:
 
-	- [ ] A template error should be accompanied by a line number, file name, and a
+
+	- [  ] A template error should be accompanied by a line number, file name, and a
 	  clear diagnostic.
-	- [ ]Cubictemp should grow a debug flag which, if turned on, causes a template
+	- [  ]Cubictemp should grow a debug flag which, if turned on, causes a template
 	  error to be accompanied by a certain amount of context (how much?)
 
 
-Expressions:
------------
+## Expressions:
 
 
 
-Rewrite
--------
 
-Block types:
+## Rewrite
 
-<--(block named)
-<--(block named||processor)
-<--(process(i) for i in processor)
+
+### Block types:
+
+ - <--(block named)
+ - <--(block named||processor)
+ - <--(process(i) for i in processor)
