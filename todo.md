@@ -2,7 +2,6 @@
 
 ## Diagnostics:
 
-- [ ] Post to Hacker News
 - [ ]  A template error should be accompanied by a line number, file name, and a
 	  clear diagnostic.
 - [ ] Cubictemp should grow a debug flag which, if turned on, causes a template
