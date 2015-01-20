@@ -16,7 +16,7 @@
 ## Rewrite
 
 
-### Block types:
+**Block types**:
 
  - <--(block named)
  - <--(block named||processor)
